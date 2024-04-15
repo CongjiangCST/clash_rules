@@ -1,5 +1,5 @@
 # clash_rules
-Personal use simple clash rules configuration.
+个人使用的时候会将Profiles复制一份，原版偶尔找资料使用，日常使用这个简洁版。
 
 黑名单模式：
 
