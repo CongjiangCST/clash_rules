@@ -1,0 +1,19 @@
+rules:
+    #gpt
+    - 'DOMAIN,chat.openai.com.cdn.cloudflare.net,ChatGPT'
+    - 'DOMAIN,openaiapi-site.azureedge.net,ChatGPT'
+    - 'DOMAIN-SUFFIX,chatgpt.com,ChatGPT'
+    - 'DOMAIN-SUFFIX,oaistatic.com,ChatGPT'
+    - 'DOMAIN-SUFFIX,openai.com,ChatGPT'
+    #copilot
+    - 'DOMAIN,copilot.microsoft.com,Copilot'
+    - 'DOMAIN-SUFFIX,sydney.bing.com,Copilot'
+    #google
+    - 'DOMAIN-KEYWORD,gmail,谷歌服务'
+    - 'DOMAIN-KEYWORD,google.com,谷歌服务'
+    - 'DOMAIN-KEYWORD,googlesource,谷歌服务'
+    - 'DOMAIN-KEYWORD,gstatic,谷歌服务'
+    #others
+    - 'DOMAIN-SUFFIX,v2ex.com,自动选择'
+    #direct
+    - 'MATCH,DIRECT'
