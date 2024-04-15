@@ -3,12 +3,12 @@ Personal use simple clash rules configuration.
 
 黑名单模式：
 
-  只有设定的网站通过vpn，默认网址直连。
+>只有设定的网站通过vpn，默认网址直连。
   
 vpn名单：
 
-  1.谷歌学术
+>1.谷歌学术
 
-  2.bing copilot
+>2.bing copilot
   
-  3.chatgpt
+>3.chatgpt
