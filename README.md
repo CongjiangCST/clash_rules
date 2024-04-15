@@ -7,8 +7,8 @@ Personal use simple clash rules configuration.
   
 vpn名单：
 
-  谷歌学术
+  1.谷歌学术
 
-  bing copilot
+  2.bing copilot
   
-  chatgpt
+  3.chatgpt
